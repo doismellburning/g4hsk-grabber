@@ -13,7 +13,6 @@
 		<h2>Monitoring frequency shown in capture</h2>
 		<h3>(Please check status below to see if online.)</h3>
 		<br>
-		<br>
 		<img src="https://dl.dropboxusercontent.com/u/45053907/G4HSK_QRSS_Captures.jpg" width="1100" height="700" alt="Grabber Image">
 		<br>
 		<br>
